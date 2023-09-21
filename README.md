@@ -4,3 +4,4 @@ name:sidda
 project:version control
 college:ANMK
 course:MCA
+affiliated by jntu
